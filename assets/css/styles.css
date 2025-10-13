@@ -1,0 +1,71 @@
+
+:root{
+    --cor-primaria: #1E1E1E;   /* preto escuro */
+    --cor-secundaria: #F5F5F5; /* off-white */
+    --cor-destaque: #E63946;   /* vermelho destaque */
+    --cor-texto: #333333; /* cinza escuro */
+    --fonte-titulo: "Poppins", system-ui, sans-serif;
+    --fonte-corpo: "Open Sans", system-ui, sans-serif;
+}
+
+.titulo{
+    font-family: var(--fonte-titulo);
+    color: var(--cor-primaria);
+}
+
+.texto{
+    font-family: var(--fonte-corpo);
+    color: var(--cor-texto);
+
+}
+.site-header{
+  background: var(--cor-secundaria);
+}
+
+.header-div{
+  display:flex; /* flex é oq faz ficar flexível */
+  align-items:center;  /*centraliza no meio vertical*/
+  gap: 16px;  /*espaçamento entre os itens*/
+    justify-content:space-between; /*espaçamento entre os itens, um em cada extremidade*/
+}
+
+.nav a{
+    text-decoration:none; /*tira o sublinhado*/
+    color: var(--cor-primaria);
+    font-weight: 600;
+    padding: 8px 12px;
+}
+
+.logo{ width: 80px; height:80px; }
+
+/* ================ MAIN ======================*/
+
+/* ================ footer ======================*/
+
+.site-footer{
+  background:#f7f7f7;
+  color:#333;
+  font-family: var(--fonte-corpo);
+}
+
+.footer-coluna ul{ 
+    list-style:none; 
+    padding:0; 
+}
+.footer-coluna a{ 
+    color:var(--cor-primaria); 
+    text-decoration:none; 
+}
+
+.footer-coluna h3{
+  font-family: var(--fonte-titulo);
+  color: var(--cor-primaria);
+}
+
+.footer-junto{
+  display:flex;
+  gap:2rem;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  padding:2rem 0;
+}
