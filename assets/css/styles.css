@@ -7,6 +7,9 @@
     --fonte-titulo: "Poppins", system-ui, sans-serif;
     --fonte-corpo: "Open Sans", system-ui, sans-serif;
 }
+body{
+  margin: 0;
+}
 
 .titulo{
     font-family: var(--fonte-titulo);
@@ -36,7 +39,7 @@
     padding: 8px 12px;
 }
 
-.logo{ width: 80px; height:80px; }
+.logo{ width: 160px; height:80px; }
 
 /* ================ MAIN ======================*/
 
@@ -95,7 +98,6 @@
   object-fit: cover;
   background-color: #f6f6f6;
 }
-
 .produto-info {
   padding: 15px;
   text-align: left;
@@ -135,3 +137,40 @@
 main h2{
   padding-left:300px;
 }
+.hero-section {
+  background-image: url('../img/impacto.png');
+  background-size: cover;
+  background-position: center;
+  height: 80vh; 
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding: 0 50px;
+  color: white;
+  position: relative;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* escurece a imagem pra destacar o texto */
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 600px;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  color: #f0f0f0;
+}
+
