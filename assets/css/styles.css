@@ -1,9 +1,9 @@
 
 :root{
-    --cor-primaria: #1E1E1E;   /* preto escuro */
-    --cor-secundaria: #F5F5F5; /* off-white */
-    --cor-destaque: #E63946;   /* vermelho destaque */
-    --cor-texto: #333333; /* cinza escuro */
+    --cor-primaria: #1E1E1E;   
+    --cor-secundaria: #F5F5F5; 
+    --cor-destaque: #E63946;   
+    --cor-texto: #333333; 
     --fonte-titulo: "Poppins", system-ui, sans-serif;
     --fonte-corpo: "Open Sans", system-ui, sans-serif;
 }
@@ -23,14 +23,14 @@
 }
 
 .header-div{
-  display:flex; /* flex é oq faz ficar flexível */
-  align-items:center;  /*centraliza no meio vertical*/
-  gap: 16px;  /*espaçamento entre os itens*/
-    justify-content:space-between; /*espaçamento entre os itens, um em cada extremidade*/
+  display:flex;
+  align-items:center; 
+  gap: 16px;  
+    justify-content:space-between; 
 }
 
 .nav a{
-    text-decoration:none; /*tira o sublinhado*/
+    text-decoration:none; 
     color: var(--cor-primaria);
     font-weight: 600;
     padding: 8px 12px;
@@ -68,4 +68,70 @@
   justify-content:space-between;
   flex-wrap:wrap;
   padding:2rem 0;
+}
+.sapatos-row,.camisetas-row,.calcas-row{
+  display: flex;
+  justify-content: center;
+}
+.produto-card {
+  width: 280px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.produto-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.produto-imagem {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  background-color: #f6f6f6;
+}
+
+.produto-info {
+  padding: 15px;
+  text-align: left;
+  background-color: #ececec;
+}
+
+.preco {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+  color: #111;
+}
+
+.nome-produto {
+  margin: 0;
+  font-size: 1rem;
+  color: #222;
+}
+
+.categoria {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 3px 0;
+}
+
+.detalhes {
+  color: #999;
+  font-size: 0.85rem;
+  margin: 3px 0;
+}
+
+.frete {
+  color: #0071e3;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+main h2{
+  padding-left:300px;
 }
