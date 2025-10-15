@@ -92,8 +92,6 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 - [x]  Imagens otimizadas com `alt` descritivo.
 - [x]  README com papéis, paleta, fontes e decisões.
 - [x]  Site no ar.
-- [x]  README com papéis, paleta, fontes e decisões.
-- [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
 
 ## Urban Style (Descrição)
