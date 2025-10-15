@@ -1,4 +1,4 @@
-# IC - Projeto da 1ª Avaliação
+# IC - URBAN STYLE 
 - [x]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
 - [x]  `header`, `nav`, `main`, `footer` usados com propósito.
 - [x]  Hero na página principal
