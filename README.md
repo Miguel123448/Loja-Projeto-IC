@@ -1,4 +1,16 @@
 # IC - Projeto da 1ª Avaliação
+- [x]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
+- [x]  `header`, `nav`, `main`, `footer` usados com propósito.
+- [x]  Hero na página principal
+- [x]  **Tabela** simples presente.
+- [x]  Paleta no `:root` (variáveis CSS).
+- [x]  Google Fonts.
+- [ ]  Imagens otimizadas com `alt` descritivo.
+- [x]  README com papéis, paleta, fontes e decisões.
+- [x]  Site no ar.
+- [ ]  Vídeo de demonstração.
+
+
 
 ## 1. Objetivo
 
