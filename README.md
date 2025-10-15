@@ -24,8 +24,8 @@
 Basta abrir `index.html` no navegador ou acessar o deployment do github.
 
 ## Papéis
-- **Dev 1: Miguel Pereira – Header, footer e design.
-- **Dev 2: João Ricardo – CSS e main.
+- **Dev 1: Miguel Pereira – Header, footer e página sobre.
+- **Dev 2: João Ricardo – CSS e main e cards.
 - **Dev 3: Saulo Eduardo – Design, Media Quare, otimização de imagens.
 
 ## Decisões
