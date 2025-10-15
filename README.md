@@ -10,6 +10,18 @@
 - [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
 
+## Paleta de cores (hex)
+- `--cor-primaria: #1E1E1E`
+- `--cor-secundaria: #F5F5F5`
+- `--cor-destaque: #E63946`
+- `--cor-texto: #333333`
+
+## Fontes
+- Títulos: Poppins (Google Fonts)
+- Texto: Open Sans (Google Fonts)
+
+## Como abrir
+Basta abrir `index.html` no navegador (ou publicar no GitHub Pages / Vercel).
 
 
 ## 1. Objetivo
