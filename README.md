@@ -97,9 +97,9 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 - [x]  **Tabela** simples presente.
 - [x]  Paleta no `:root` (variáveis CSS).
 - [x]  Google Fonts.
-- [ ]  Imagens otimizadas com `alt` descritivo.
-- [ ]  README com papéis, paleta, fontes e decisões.
-- [ ]  Site no ar.
+- [x]  Imagens otimizadas com `alt` descritivo.
+- [x]  README com papéis, paleta, fontes e decisões.
+- [x]  Site no ar.
 - [x]  README com papéis, paleta, fontes e decisões.
 - [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
