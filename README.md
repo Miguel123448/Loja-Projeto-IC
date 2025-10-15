@@ -22,7 +22,8 @@
 
 ## Como abrir
 Basta abrir `index.html` no navegador (ou publicar no GitHub Pages / Vercel).
-
+=========================================================================================================================
+Apagar depois
 
 ## 1. Objetivo
 
