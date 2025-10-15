@@ -81,15 +81,7 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 - Paleta de cores (hexadecimal) + fontes usadas.
 - Como abrir o projeto (basta abrir `index.html`).
 - Checklist (copiar a seção do item 8 preenchida).
-
-## 8. Checklist (colar no README e marcar)
-
-- [ ]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
-- [ ]  `header`, `nav`, `main`, `footer` usados com propósito.
-- [ ]  Hero na página principal
-- [ ]  **Tabela** simples presente.
-- [ ]  Paleta no `:root` (variáveis CSS).
-- [ ]  Google Fonts.
+     
 # IC - UrbanStyle
 - [x]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
 - [x]  `header`, `nav`, `main`, `footer` usados com propósito.
@@ -104,7 +96,6 @@ Obs: No repositório o arquivo **README.md** (obrigatório) deve conter:
 - [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
 
-## 9. Desafio bônus (1,0 ponto extra)
 ## Urban Style (Descrição)
 A Urban Style é uma marca fictícia de moda urbana que criamos para representar atitude, autenticidade e a identidade das ruas. A ideia foi desenvolver um site institucional moderno, limpo e fácil de navegar, que mostrasse o estilo e a identidade da marca.
 O projeto foi feito apenas com HTML5 e CSS3, sem frameworks, focando em semântica, acessibilidade e um design responsivo que se adapta bem em qualquer tela do celular ao computador.
@@ -115,22 +106,16 @@ O projeto foi feito apenas com HTML5 e CSS3, sem frameworks, focando em semânti
 - `--cor-destaque: #E63946`
 - `--cor-texto: #333333`
 
-Design responsivo com uso de media queries (sem frameworks).
 ## Fontes
 - Títulos: Poppins (Google Fonts)
 - Texto: Open Sans (Google Fonts)
-
-## 10. Sugestões de papéis
+  
 ## Como abrir
 Basta abrir `index.html` no navegador ou acessar o deployment do github.
 
-- **Dev 1 – Estrutura e Acessibilidade** (HTML, semântica).
-- **Dev 2 – Layout e Componentes** (Flex, cards, botões).
-- **Dev 3 – Estilo e Documentação** (Paleta, tipografia, README, otimização de imagens).
 ## Papéis
 - **Dev 1: Miguel Pereira – Header, footer e página sobre.
-- **Dev 2: João Ricardo – CSS e main e cards.
-- **Dev 3: Saulo Eduardo – Design, Media Quare, otimização de imagens.
+- **Dev 2: João Ricardo – CSS e cards.
+- **Dev 3: Saulo Eduardo – Design, Main e otimização de imagens.
 
-Todos revisam o código uns dos outros (garantir consistência).
-## Decisões
+Todos revisaram o código uns dos outros (garantir consistência).
