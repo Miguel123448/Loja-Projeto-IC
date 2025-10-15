@@ -112,8 +112,8 @@ O projeto foi feito apenas com HTML5 e CSS3, sem frameworks, focando em semânti
 Basta abrir `index.html` no navegador ou acessar o deployment do github.
 
 ## Papéis
-- **Dev 1: Miguel Pereira – Header, footer e página sobre.
-- **Dev 2: João Ricardo – CSS e cards.
-- **Dev 3: Saulo Eduardo – Design, Main e otimização de imagens.
+- **Dev 1: Miguel Pereira – Header, footer, criação do readme e página sobre.
+- **Dev 2: João Ricardo – CSS, página index, criação do video e cards.
+- **Dev 3: Saulo Eduardo – Design, Main,pagina contato e otimização de imagens.
 
 Todos revisaram o código uns dos outros (garantir consistência).
