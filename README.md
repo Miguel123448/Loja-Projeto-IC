@@ -28,4 +28,4 @@ Basta abrir `index.html` no navegador ou acessar o deployment do github.
 - **Dev 2: João Ricardo – CSS e main.
 - **Dev 3: Saulo Eduardo – Design, Media Quare, otimização de imagens.
 
-##Decisões
+## Decisões
