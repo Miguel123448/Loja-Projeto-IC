@@ -10,6 +10,10 @@
 - [x]  Site no ar.
 - [ ]  Vídeo de demonstração.
 
+## Urban Style (Descrição)
+A Urban Style é uma marca fictícia de moda urbana que criamos para representar atitude, autenticidade e a identidade das ruas. A ideia foi desenvolver um site institucional moderno, limpo e fácil de navegar, que mostrasse o estilo e a identidade da marca.
+O projeto foi feito apenas com HTML5 e CSS3, sem frameworks, focando em semântica, acessibilidade e um design responsivo que se adapta bem em qualquer tela do celular ao computador.
+
 ## Paleta de cores (hex)
 - `--cor-primaria: #1E1E1E`
 - `--cor-secundaria: #F5F5F5`
